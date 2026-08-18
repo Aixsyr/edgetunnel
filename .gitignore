@@ -2,6 +2,7 @@
 demo/
 tmp/
 .workbuddy/
+edge_worker.js
 
 # 依赖包
 node_modules/
